@@ -6,3 +6,4 @@
 ### [Project 4: Human Body Temperature Using EDA](https://github.com/chill7627/Springboard/blob/master/sliderule_dsi_inferential_statistics_exercise_1.ipynb)
 ### [Project 5: Examine Racial Discrimination Using EDA](https://github.com/chill7627/Springboard/blob/master/sliderule_dsi_inferential_statistics_exercise_2.ipynb)
 ### [Project 6: Reduce Hospital Readmissions Using EDA](https://github.com/chill7627/Springboard/blob/master/sliderule_dsi_inferential_statistics_exercise_3.ipynb)
+### [Project 7: Heights and Weights Using Logistic Regression](https://github.com/chill7627/Springboard/blob/master/Mini_Project_Logistic_Regression.ipynb)
