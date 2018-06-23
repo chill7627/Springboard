@@ -9,3 +9,4 @@
 ### [Project 7: Heights and Weights Using Logistic Regression](https://github.com/chill7627/Springboard/blob/master/Mini_Project_Logistic_Regression.ipynb)
 ### [Project 8: Predicting Movie Ratings from Reviews Using Naive Bayes](https://github.com/chill7627/Springboard/blob/master/Mini_Project_Naive_Bayes.ipynb)
 ### [Project 9: Customer Segmentation Using Clustering](https://github.com/chill7627/Springboard/blob/master/Mini_Project_Clustering.ipynb)
+### [Project 10: MapReduce with Spark](https://github.com/chill7627/Springboard/blob/master/pyspark_exercise.ipynb)
